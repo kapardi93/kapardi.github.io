@@ -91,7 +91,7 @@ I am a **Senior R&D AI Engineer** with 6+ years of experience designing and depl
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapardi93&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
