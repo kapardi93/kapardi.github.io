@@ -56,10 +56,6 @@ I am a **Senior R&D AI Engineer** with 6+ years of experience designing and depl
 - Combined **reinforcement learning + biomechanics**
 - Used for clinical and implant testing scenarios
 
-### 🔹 AI for Medical Imaging (Cancer Detection)
-- Used **Vision Transformers + Haralick features**
-- Built high-accuracy models for **OCT-based diagnosis**
-
 ---
 
 ## 🏆 Achievements
